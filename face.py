@@ -10,7 +10,7 @@ import face_recognition
 from io import BytesIO
 from PIL import Image
 
-VECTORS_FILE = 'face_vectors.json'
+VECTORS_FILE = 'criminal_vectors.json'
 FACE_DETECTION_SCALE = 0.5
 MATCH_THRESHOLD = 0.5
 
